@@ -13,4 +13,4 @@ Preparing tools:<br />
    2.2. Install all libs:<br />
 ```.\install_library.bat``` <br />
    2.3. Run python script to download file mp3:<br />
-```python main.py``
+```python main.py```
