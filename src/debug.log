@@ -1,0 +1,14 @@
+[1225/094647.319:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\LEVANC~1\AppData\Local\Temp\scoped_dir6276_95940037\Crashpad\attachments\93b7ffeb-ae10-4d1b-b1ad-a12a7c87dbc3: The system cannot find the path specified. (0x3)
+[1225/095040.876:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1225/095040.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1225/095040.877:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1225/095040.880:ERROR:exception_snapshot_win.cc(99)] thread ID 23424 not found in process
+[1225/095041.136:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1225/095041.143:ERROR:exception_snapshot_win.cc(99)] thread ID 12800 not found in process
+[1225/095345.085:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1225/095345.086:ERROR:exception_snapshot_win.cc(99)] thread ID 20888 not found in process
+[1225/095345.143:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1225/095345.144:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1225/095345.144:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1225/095345.144:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1225/095345.144:ERROR:exception_snapshot_win.cc(99)] thread ID 6232 not found in process
