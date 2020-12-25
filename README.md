@@ -5,8 +5,8 @@ Preparing tools:<br />
 * Download and install IDM at: https://www.internetdownloadmanager.com/<br />
 
 ###############################################################################<br />
-Step 1:<br />
-    - Clone or download repo<br />
+Step 1: Clone or download repo<br />
+``` git clone git@github.com:cuongvanledev/Download-PNTT_Automation.git ``` <br />
 Step 2:<br />
     2.1: Open CMD and go to src folder:<br />
        *cd src<br />*
