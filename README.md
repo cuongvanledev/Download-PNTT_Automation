@@ -1,4 +1,4 @@
-# Download-PNTT_Automation
+# Download Phàm Nhân Tu Tiên Automation
 ##############################################################################<br />
 Preparing tools:<br />
 * Download and install python at: https://www.python.org/<br />
@@ -13,4 +13,6 @@ Preparing tools:<br />
    2.2. Install all libs:<br />
 ```.\install_library.bat``` <br />
    2.3. Run python script to download file mp3:<br />
-```python main.py```
+```python main.py``` <br />**OR**:<br />
+```./test.sh```
+
